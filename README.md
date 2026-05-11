@@ -136,11 +136,12 @@ while not done:
 env.close()
 print("Test Reward:", total_reward)
 
----
+```
 
 # Output
+<img width="368" height="207" alt="image" src="https://github.com/user-attachments/assets/a3488df9-170c-43ed-ab4c-c7fd15a1ee9c" />
 
-<img width="368" height="207" alt="image" src="https://github.com/user-attachments/assets/eb9561b8-bb7a-4337-be72-b8a37a32d9c5" />
+
 
 
 

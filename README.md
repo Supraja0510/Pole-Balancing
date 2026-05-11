@@ -138,12 +138,13 @@ print("Test Reward:", total_reward)
 
 ---
 
-**# Output**
+# Output
 
-<img width="324" height="180" alt="image" src="https://github.com/user-attachments/assets/cd54bf1d-d07a-46cc-8b62-ef76cd7a6e8a" />
+<img width="368" height="207" alt="image" src="https://github.com/user-attachments/assets/eb9561b8-bb7a-4337-be72-b8a37a32d9c5" />
 
 
-**# Result**
+
+# Result
 
 The Reinforcement Learning agent successfully learned to balance the pole using the Q-Learning algorithm.  
 The reward increased gradually with training episodes, demonstrating that the agent improved its balancing strategy through learning and interaction with the environment.
